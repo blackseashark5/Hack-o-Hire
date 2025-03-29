@@ -12,6 +12,12 @@
 
 ---
 
+## 🌐 Try It Online  
+
+👉 **Live Demo:** [TermSheet Validator](https://cute-tanuki-2cc9ab.netlify.app/)  
+
+---
+
 ## 📖 Overview  
 
 The **TermSheet Validator** is an intelligent tool designed to validate financial and legal term sheets for accuracy, completeness, and compliance with predefined rules. This tool helps prevent **errors, miscommunications, and legal disputes** by automating the validation process, ensuring consistency, and improving efficiency.  
